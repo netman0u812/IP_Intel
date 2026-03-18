@@ -1,7 +1,6 @@
-==================================================
+
  ip_intel.sh - IP Intelligence Lookup Tool
- README
-==================================================
+
 
 
 OVERVIEW
@@ -211,6 +210,3 @@ To add support for additional threat intelligence sources such as
 VirusTotal, Shodan, or Greynoise, add a new _lookup() function following
 the existing pattern and call it inside lookup_ip().
 
-==================================================
- End of README
-==================================================
